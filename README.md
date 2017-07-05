@@ -3,7 +3,7 @@
 <b>Flash Developを用いる</b>  
 1.AS3の新規プロジェクトを作成  
 2.AS3のディレクトリツリーにlibフォルダを作成  
-3.libフォルダ内にbattle.swc,common.swc,lobby.swcを貼り付け  
+3.libフォルダ内にbattle.swc,common.swc,lobby.swc　などを貼り付け  
 4.プロジェクト→プロパティ→コンパイル設定→swc libraries より、swcファイルの存在するディレクトリ、ファイル名を記述する  
 
 
