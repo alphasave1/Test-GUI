@@ -1,5 +1,5 @@
 # Test-GUI
-## WoTでAs3とPythonを用いてGUIを作成  
+## WoTでAS3とPythonを用いてGUIを作成  
 <b>Flash Developを用いる</b>  
 1.AS3の新規プロジェクトを作成  
 2.AS3のディレクトリツリーにlibフォルダを作成  
