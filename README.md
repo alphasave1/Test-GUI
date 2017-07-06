@@ -1,11 +1,4 @@
 # Test-GUI
-## WoTでAS3とPythonを用いてGUIを作成  
-<b>Flash Developを用いる</b>  
-1.AS3の新規プロジェクトを作成  
-2.AS3のディレクトリツリーにlibフォルダを作成  
-3.libフォルダ内にbattle.swc,common.swc,lobby.swc　などを貼り付け  
-4.プロジェクト→プロパティ→コンパイル設定→swc libraries より、swcファイルの存在するディレクトリ、ファイル名を記述する  
-
 
 その他　引用など  
 https://shun1adhocblog.wordpress.com/2012/11/17/flash-actionscript3%E3%81%A7%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/  
