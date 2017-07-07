@@ -18,6 +18,8 @@ package
 		override protected function configUI():void {
 			super.configUI();
 			window.title = "Моё окно";
+			this.addChild(redButton); //追加
+			this.addChild(buttonNormal); //追加
 			if (redButton) { // можно смело убрать эти if
 				redButton.label = "Просто кнопка";
 			}
