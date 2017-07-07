@@ -21,19 +21,19 @@ package
 		override protected function configUI():void {
 			super.configUI();
 			redButton = addChild(App.utils.classFactory.getComponent("ButtonRed",SoundButton,{
-      width:100,
-      height:20,
-      x:20,
-      y:20,
+      			width:100,
+      			height:20,
+      			x:20,
+      			y:20,
 			label:"Button"
-      })) as SoundButton;
-      buttonNormal=addChild(App.utils.classFactory.getComponent("ButtonNormal",SoundButton,{
-      width:100,
-      height:25,
-      x:50,
-      y:50,
-      label:"Close Window"
-      }))as SoundButton;
+      			})) as SoundButton;
+      			buttonNormal=addChild(App.utils.classFactory.getComponent("ButtonNormal",SoundButton,{
+      			width:100,
+      			height:25,
+      			x:50,
+      			y:50,
+      			label:"Close Window"
+      			}))as SoundButton;
 			if (buttonNormal) { // можно смело убрать эти if
 				buttonNormal.addEventListener(ButtonEvent.CLICK, this.onClickHandler);
 			}
