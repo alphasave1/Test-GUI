@@ -1,7 +1,7 @@
 package
 {
 	import net.wg.gui.components.controls.SoundButtonEx; //現時点ではいらない
-  import net.wg.gui.components.controls.SoundButton;
+  	import net.wg.gui.components.controls.SoundButton;
 	import net.wg.gui.lobby.header.FightButton; //現時点ではいらない
 	import net.wg.infrastructure.base.AbstractWindowView;
 
