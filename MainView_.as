@@ -10,9 +10,9 @@ package
 	public class MainView extends AbstractWindowView {
 
 		//public var redButton:FightButton;
-    public var redButton:SoundButton;
+    		public var redButton:SoundButton;
 		//public var buttonNormal:SoundButtonEx;
-    public var buttonNormal:SoundButton;
+    		public var buttonNormal:SoundButton;
 
 		public function MainView() {
         super();
