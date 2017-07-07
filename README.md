@@ -1,5 +1,7 @@
 # Test-GUI
 
+Flash DevelopでSWFファイルを作成する方法についてはwikiを参照  
+
 その他　引用など  
 https://shun1adhocblog.wordpress.com/2012/11/17/flash-actionscript3%E3%81%A7%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/  
 
